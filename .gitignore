@@ -1,0 +1,6 @@
+target/
+.idea/
+null/
+out/
+project/
+*.txt
