@@ -1,1 +1,2 @@
-# gauss
+# School project: Gaussian elimination
+But also
