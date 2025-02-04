@@ -1,2 +1,2 @@
 # School project: Gaussian elimination
-But also
+But also a git playground.
